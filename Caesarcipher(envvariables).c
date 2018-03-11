@@ -38,6 +38,5 @@ for (j=0;j<strlen(y);j++)
 	}
 }
 printf("The encoded text is: %s", y);
-printf("%d",i);
 return 0;
 }
